@@ -1,0 +1,7 @@
+com.tibco.bw.core.design.debug.ui.launch.existingApplications=restExample/
+com.tibco.bw.core.design.debug.ui.launch.processesArg=restExample\=restexample.module.Process/
+com.tibco.bw.core.design.debug.ui.launch.selectedApplications=restExample/
+com.tibco.bw.core.design.debug.ui.launch.selectedModules=restExample.module/
+com.tibco.bw.core.design.debug.ui.launch.selectedProcesses=restExample.module\=restexample.module.Process/
+eclipse.preferences.version=1
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
